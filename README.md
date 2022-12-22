@@ -1,0 +1,1 @@
+This expands mingrammer diagrams by adding additional custom diagrams and icons.
